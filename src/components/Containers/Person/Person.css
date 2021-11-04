@@ -1,0 +1,30 @@
+/* single user card design   */
+.carditem {
+    margin: 10px;
+}
+
+.single-card{
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: aliceblue;
+    border-radius: 7px;
+    transition: 2s;
+}
+
+.single-card:hover{
+    background: darkturquoise;
+}
+.single-card img {
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+}
+.bold{
+    font-weight: 800;
+}
+.fab{
+    font-size: 25px;
+    color: blue;
+    margin: 0 10px;
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "id": "101",
+        "name": "Md. Mahedi Hassan",
+        "age": "28",
+        "skill": "Javascript, Wordpress, Python",
+        "service": "Full Stack Engineer",
+        "salary": 45000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg"
+    },
+    {
+        "id": "102",
+        "name": "Prianka",
+        "age": "24",
+        "skill": "Illustrator, Photoshop",
+        "service": "Graphics Designer",
+        "salary": 30000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iNf14zq8sSgcaPQ68O_rZ4hPUlqYaFmx60L0hTN1qaufTGhWwNUS0CisH2oc7gNzB98&usqp=CAU"
+    },
+    {
+        "id": "103",
+        "name": "Ifthakhar Mahmud",
+        "age": "28",
+        "skill": "React, MongoDB, Node, Express",
+        "service": "MERN Developer",
+        "salary": 45000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://www.senseaboutscience.org.uk/wp-content/uploads/2021/03/pexels-photo-842567.jpeg"
+    },
+    {
+        "id": "104",
+        "name": "Modumita",
+        "age": "26",
+        "skill": "Illustrator, InDesign",
+        "service": "Graphics Designer",
+        "salary": 32000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://im.rediff.com/getahead/2018/oct/01cat-study-tips-lead.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Rifat Hossain",
+        "age": "30",
+        "skill": "Online, Offline Marketing",
+        "service": "Digital Marketing",
+        "salary": 35000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/07/15/Pictures/_a1a65bba-c68a-11ea-be81-f7b2e356804f.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Prova akter",
+        "age": "25",
+        "skill": "HTML, CSS, Javascript",
+        "service": "web Designer",
+        "salary": 31500,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48ukN18yyXjwJu00yMd3gd4qVi5sBmOgRLg&usqp=CAU"
+    },
+    {
+        "id": "107",
+        "name": "jone Ibrahim",
+        "age": "29",
+        "skill": "Android, ISO",
+        "service": "Apps Developer",
+        "salary": 35000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://image.shutterstock.com/image-photo/portrait-casual-young-boy-workplace-260nw-520100761.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Marufa khan",
+        "age": "28",
+        "skill": "2D,3D, Autocad",
+        "service": "Video Editor",
+        "salary": 28000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://media2.vault.com/16923/woman_with_computer.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Istiaque Ahmed",
+        "age": "30",
+        "skill": "Online, Offline Marketing",
+        "service": "Digital Marketing",
+        "salary": 33000,
+        "fb": "https://www.facebook.com/",
+        "tw": "https://twitter.com/",
+        "li": "https://www.linkedin.com/",
+        "img": "https://us.123rf.com/450wm/wxin/wxin1609/wxin160900019/62122180-handsome-handsome-chinese-man-owner-of-a-company.jpg?ver=6"
+    }
+]

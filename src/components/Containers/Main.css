@@ -1,0 +1,41 @@
+/* main style css */
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 20px 50px;
+}
+.person-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px;
+}
+.cart-container{
+    padding: 5px;
+}
+
+/* table layout design  */
+@media only screen and (min-width: 668px) and (max-width: 991px){
+
+    .container{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    .person-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+/* mobile layout design  */
+@media only screen and (max-width: 667px){
+
+    .container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .person-container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
