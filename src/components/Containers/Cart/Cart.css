@@ -1,0 +1,29 @@
+
+/* hiring cart css style  */
+.hire{
+    background-color: beige;
+    border: 1px solid #ddd;
+    padding: 5px 15px 25px;
+    margin-top: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.hire h2{
+    text-align: center;
+}
+
+.cartUser{
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: 1s;
+}
+.cartUser:hover{
+    background-color: rgb(226, 226, 191);
+}
+.cartImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
